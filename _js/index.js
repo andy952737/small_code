@@ -6,3 +6,5 @@ window.onload = function() {
         alert(this.value);
     });
 }; 
+
+var demo;
